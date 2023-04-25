@@ -1,6 +1,6 @@
 # Note Taker
 
-GitHub Repository: https://github.com/mjonas14/NoteTaker
+Application: https://calm-caverns-72540.herokuapp.com/
 
   ## Description
   The Note Taker application allows the user to take notes by giving each note a title and a note body. The notes can then be saved to a database and viewed at a later time. 
